@@ -66,6 +66,13 @@
                 "name": "Command Prompt",
                 "commandline": "cmd.exe",
                 "hidden": false
+            },
+            {
+                "guid": "{b9d83699-2670-4ea0-88b2-6d1230fc0e5c}",
+                "name": "Developer Command Prompt for VS2019",
+                "commandline": "C:\\Windows\\System32\\cmd.exe",
+                "hidden": false,
+                "startingDirectory": "%USERPROFILE%"
             }
         ]
     },
